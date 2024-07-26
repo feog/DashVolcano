@@ -1,1 +1,57 @@
+body {
+    font-family: Century Gothic; 
+}
+
+.intro {
+    background-color: #000000;
+}
+
+.title {
+    margin-top: 10px;
+    color: #FFFFFF;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    margin: 10 auto;
+}
+
+.description {
+    color: #CFCFCF;
+    margin: 4px auto;
+    text-align: center;
+    max-width: 800px;
+}
+
+/* title for all user options */
+.menu-title {
+    margin-bottom: 6px;
+    font-weight: bold;
+    color: #079A82;
+}
+
+/* title for all user options */
+.menu-link {
+    margin-bottom: 6px;
+    font-weight: bold;
+    color: #079A82;
+}
+
+/* makes check boxes horizontal */
+.check {
+    height: 30px;
+    width: 680px;
+    display: flex;
+    justify-content: left;
+    padding-top: 20px;
+    margin: 0px 0px 0px 0px;
+    background-color: #FFFFFF;
+}
+
+/* makes a shadow below the box */
+.card {
+    margin-bottom: 24px;
+    box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.18);
+}
+
+
 
